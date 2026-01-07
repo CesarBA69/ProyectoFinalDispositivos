@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Uñas y pestañas Brenda</string>
+    <string name="continuar">Continuar</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="agendar_cita">Agendar cita</string>
+    <string name="seleccionar_dia">Seleccionar día</string>
+    <string name="cancelar">Cancelar</string>
+</resources>

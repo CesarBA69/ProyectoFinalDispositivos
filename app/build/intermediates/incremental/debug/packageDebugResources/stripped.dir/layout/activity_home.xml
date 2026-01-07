@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="vertical"
+      android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Uñas y Pestañas Brenda"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:src="@drawable/placeholder"
+        android:scaleType="centerCrop"
+        android:layout_marginBottom="24dp" />
+
+    <!-- Agenda -->
+    <Button
+        android:id="@+id/btnCalendario"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="Agenda del día"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Mis citas -->
+    <Button
+        android:id="@+id/btnMisCitas"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="Mis citas"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Acción principal -->
+    <Button
+        android:id="@+id/btnAgendar"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="Agendar cita"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Seguridad -->
+    <Button
+        android:id="@+id/btnChangePassword"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="Cambiar contraseña" />
+
+  </LinearLayout>
+</ScrollView>
+

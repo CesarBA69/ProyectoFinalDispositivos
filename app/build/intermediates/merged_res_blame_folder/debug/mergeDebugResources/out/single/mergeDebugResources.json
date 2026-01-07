@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_calendar.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_appointments.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_services.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\drawable_placeholder.png.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_confirm.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_confirm.xml"
+    },
+    {
+        "merged": "com.example.citasbrenda.app-debug-37:/layout_activity_my_appointments.xml.flat",
+        "source": "com.example.citasbrenda.app-main-39:/layout/activity_my_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_providers.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_providers.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_price_lists.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_price_lists.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_branches.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_branches.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_appointment_detail.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_appointment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\drawable_calendar2025.png.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\drawable\\calendar2025.png"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_price_list_detail.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_price_list_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_schedule.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\drawable_chip_busy.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\drawable\\chip_busy.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "com.example.citasbrenda.app-debug-37:/layout_activity_daily_agenda.xml.flat",
+        "source": "com.example.citasbrenda.app-main-39:/layout/activity_daily_agenda.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\drawable_chip_selected.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\drawable\\chip_selected.xml"
+    },
+    {
+        "merged": "com.example.citasbrenda.app-debug-37:/layout_activity_home.xml.flat",
+        "source": "com.example.citasbrenda.app-main-39:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-debug-37:\\drawable_chip_available.xml.flat",
+        "source": "C:\\Users\\ara_b\\.gradle\\daemon\\8.7\\com.example.citasbrenda.app-main-39:\\drawable\\chip_available.xml"
+    }
+]

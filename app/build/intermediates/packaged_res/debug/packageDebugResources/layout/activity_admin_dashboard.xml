@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Panel Administrador"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            android:layout_marginBottom="16dp"/>
+
+        <Button
+            android:id="@+id/btnBranches"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:text="🏪 Gestionar sucursales"/>
+
+        <Button
+            android:id="@+id/btnServices"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="10dp"
+            android:text="💅 Gestionar servicios"/>
+
+        <Button
+            android:id="@+id/btnPriceLists"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="10dp"
+            android:text="💲 Listas de precio (después)"/>
+
+        <Button
+            android:id="@+id/btnPromos"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="10dp"
+            android:text="🎁 Promociones (después)"/>
+
+        <Button
+            android:id="@+id/btnProviders"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="10dp"
+            android:text="👩‍🔧 Prestadores (después)"/>
+
+    </LinearLayout>
+</ScrollView>
+

@@ -1,0 +1,41 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.citasbrenda">
+
+    <application
+        android:allowBackup="true"
+        android:label="Uñas y pestañas Brenda"
+        android:theme="@style/Theme.CitasBrenda">
+
+        <activity android:name=".AppointmentsActivity" />
+        <activity android:name=".ConfirmActivity" />
+        <activity android:name=".ScheduleActivity" />
+        <activity android:name=".CalendarActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".AdminDashboardActivity" />
+        <activity android:name=".AppointmentDetailActivity" />
+        <activity android:name=".ChangePasswordActivity" />
+        <activity android:name=".BranchesActivity" />
+        <activity android:name=".ServicesActivity" />
+        <activity android:name=".ProvidersActivity" />
+        <activity android:name=".PriceListsActivity" />
+        <activity android:name=".PriceListDetailActivity" />
+        <activity android:name=".DailyAgendaActivity" />
+        <activity android:name=".MyAppointmentsActivity" />
+
+
+        <!-- Pantalla inicial CORRECTA -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+</manifest>
+
+
+

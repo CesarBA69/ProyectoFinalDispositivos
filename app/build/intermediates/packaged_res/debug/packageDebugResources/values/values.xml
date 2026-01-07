@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_beige">#F2E6D0</color>
+    <color name="brand_black">#000000</color>
+    <color name="brand_gray_light">#EFEFEF</color>
+    <color name="gray_selected">#CFCFCF</color>
+    <color name="green_available">#7ED957</color>
+    <color name="red_busy">#FF6B6B</color>
+    <color name="white">#FFFFFF</color>
+    <string name="agendar_cita">Agendar cita</string>
+    <string name="app_name">Uñas y pestañas Brenda</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="continuar">Continuar</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="seleccionar_dia">Seleccionar día</string>
+    <style name="Theme.CitasBrenda" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_beige</item>
+        <item name="android:statusBarColor">@color/brand_black</item>
+    </style>
+</resources>

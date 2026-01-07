@@ -1,0 +1,9 @@
+<resources>
+    <color name="brand_beige">#F2E6D0</color>
+    <color name="brand_black">#000000</color>
+    <color name="brand_gray_light">#EFEFEF</color>
+    <color name="green_available">#7ED957</color>
+    <color name="red_busy">#FF6B6B</color>
+    <color name="gray_selected">#CFCFCF</color>
+    <color name="white">#FFFFFF</color>
+</resources>
