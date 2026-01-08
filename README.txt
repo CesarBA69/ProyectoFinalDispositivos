@@ -74,3 +74,20 @@ La aplicación maneja tres tipos de usuarios:
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/CesarBA69/ProyectoFinalDispositivos.git
+
+2. Una vez ejecutado el proyecto usar los siguientes usuarios para acceder a los distintos perfiles 
+
+ADMIN
+Correo: admin@brenda.com
+Contraseña: 123456
+
+PRESTADOR
+Correo: prestador@brenda.com
+Contraseña: 123456
+
+CLIENTE
+
+Correo: cliente@brenda.com
+Contraseña: 123456
+
+Se puede cambiar contraseña en caso de ser requerido y el Administrador es el unico que puede añadir y quitar un PRESTADOR, el cliente es libre de crear su propia cuenta  
